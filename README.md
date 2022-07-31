@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valeead welcome to my portfolio. Here you can see my improvemen
+- 👋 Hi, I’m @Valeead welcome to my portfolio. Here you can see my improvement
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning M.Sc Data Analytics
 - 📫 How to reach me validt8@gmail.com
